@@ -8,6 +8,7 @@ To install the plugin, use the Cordova CLI and enter the following:<br />
 ## Platforms ##
 - Android
 - iOS
+- Windows Phone 8
 
 ## Use ##
 To show the dialog, use the following code:<br />
